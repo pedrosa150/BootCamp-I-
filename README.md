@@ -19,7 +19,3 @@ Você pode visualizar a página web deste portfólio online clicando no link aba
 
 ## 🌐 Portfólio Complementar
 📍 [Acessar Portfólio no Google Sites](https://sites.google.com/d/1P7ThK8RORqeuD3Hgn0m2CLCbB51G31Ld/p/1IXblElSy6eoedF-psioUl0bd7qhzTxie/edit)
-
-## 🛠️ Tecnologias Utilizadas
-* Git & GitHub
-* HTML5 / CSS3

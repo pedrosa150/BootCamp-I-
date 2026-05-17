@@ -12,7 +12,3 @@ Bem-vindo ao meu repositório de projetos acadêmicos e pessoais! Este espaço f
 
 ## 📄 Currículo Profissional
 📥 [Baixar Currículo](https://raw.githubusercontent.com/pedrosa150/BootCamp-I-/main/Curr%C3%ADculo%20Profissional%20_%20Pedro%20Rodrigues.pdf)
-
-## 🛠️ Tecnologias Utilizadas
-* Git & GitHub
-* HTML5 / CSS3

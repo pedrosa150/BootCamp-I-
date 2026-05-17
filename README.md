@@ -10,10 +10,6 @@ Bem-vindo ao meu repositório de projetos acadêmicos e pessoais! Este espaço f
 * **/projetos-pessoais**: Aplicações autorais, testes de ferramentas e desafios de código.
 * **/documentos**: Slides de apresentações e materiais de apoio.
 
-## 💻 Projeto em Destaque (GitHub Pages)
-Você pode visualizar a página web deste portfólio online clicando no link abaixo:
-👉 https://pedrosa150.github.io/BootCamp-I-/
-
 ## 📄 Currículo Profissional
 📥 [Baixar Currículo](https://raw.githubusercontent.com/pedrosa150/BootCamp-I-/main/Curr%C3%ADculo%20Profissional%20_%20Pedro%20Rodrigues.pdf)
 

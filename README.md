@@ -1,6 +1,4 @@
-# BootCamp-I-
-Direcionado às aulas de BootCamp I
-Desenvolvimento do Portifólio acadêmico e profissional, direcionado às aulas de BootCamp I 
+
 # 🚀 Meu Portfólio de Projetos - Pedro de Oliveira S Rodrigues
 
 Bem-vindo ao meu repositório de projetos acadêmicos e pessoais! Este espaço foi desenvolvido com o objetivo de centralizar minhas produções técnicas, demonstrar minhas habilidades e registrar meu progresso como desenvolvedor.
